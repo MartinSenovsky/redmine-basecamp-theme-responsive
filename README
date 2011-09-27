@@ -1,0 +1,11 @@
+A Basecame theme for Redmine.
+
+Modified to support small display size. Optimised for mobile devices with screen width equal 480px.
+
+INSTALL
+-------
+
+To install, just clone into your Redmine theme dir like so:
+
+    $ cd /path/to/redmine/public/themes
+    $ git clone http://github.com/MartinSenovsky/redmine-basecamp-theme-responsive.git basecamp-responsive
